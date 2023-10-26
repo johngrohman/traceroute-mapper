@@ -1,0 +1,13 @@
+ 1  csvcs-rcl01-vrfdata-rtr.network.mst.edu (10.106.65.254)  15.977 ms  2.989 ms  6.209 ms
+ 2  cr01-vrfdata-rtr.network.mst.edu (172.16.2.154)  14.986 ms  16.224 ms  13.704 ms
+ 3  brdr-ncxx-098-vrfdata-rtr.network.mst.edu (172.16.0.86)  3.939 ms  2.679 ms  3.901 ms
+ 4  exts-nccs-01-vrfinet-rtr.network.mst.edu (172.16.96.86)  3.884 ms  5.457 ms  3.847 ms
+ 5  sl-core-01-he0-1-0-3-230.mo.more.net (150.199.91.149)  7.716 ms  6.934 ms  7.774 ms
+ 6  sl-gw-02-he0-0-0-23.mo.more.net (150.199.7.78)  7.694 ms  7.704 ms  6.938 ms
+ 7  lag-111.bear1.stlouis1.level3.net (4.53.160.181)  7.773 ms  6.758 ms  5.904 ms
+ 8  ae1.3501.edge3.chicago10.level3.net (4.69.206.242)  16.217 ms
+    ae2.2.edge1.chicago10.level3.net (4.69.133.29)  16.092 ms
+    ae1.3501.edge3.chicago10.level3.net (4.69.206.242)  12.705 ms
+ 9  google-level3-chicago10.level3.net (4.68.63.130)  18.651 ms  18.489 ms  19.583 ms
+10  * * *
+11  dns.google (8.8.8.8)  26.778 ms  18.558 ms  19.445 ms
